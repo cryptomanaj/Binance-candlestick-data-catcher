@@ -8,7 +8,7 @@ from numpy import true_divide
 import pandas as pd
 from datetime import datetime
 """
-
+   
 This script gets the candlestick data from binance. If there is no candles for the desired asset
 in the "data" fodler, the application will download the data from binance from the start date. to
 if the end date. If there is no start date specified, the application will download the data from
