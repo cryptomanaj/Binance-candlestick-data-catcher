@@ -8,7 +8,7 @@ Constants:
 ---------
 -API_KEY: str: The api key for binance.
 -ASSETNAME : str: The name of the asset for downloading the candlestick data.
--TIMEFRAME: str: The timeframe for the candlestick data.
+-TIMEFRAME: str: The timeframe for the candlestick d ata.
 -START_DATE: Start date string in UTC format or timestamp in seconds if no data has been provided,
     the application will download the data from the beginning of time.
 -END_DATE: End date string in UTC format or timestamp in milliseconds. if no data has been provided,
