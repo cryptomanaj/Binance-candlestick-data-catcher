@@ -4,7 +4,7 @@ if the end date. If there is no start date specified, the application will downl
 the beginning of time and if there is no end date specified , the application will download the   
 candles untill the current date.
  
-Constants:
+Constants: 
 ---------
 -API_KEY: str: The api key for binance.
 -ASSETNAME : str: The name of the asset for downloading the candlestick data.
