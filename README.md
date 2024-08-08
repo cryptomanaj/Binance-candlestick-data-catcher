@@ -1,4 +1,4 @@
-This script gets the candlestick data from binance. If there is no candles for the desired asset
+This script gets the c andlestick data from binance. If there is no candles for the desired asset
 in the "data" fodler, the appl ication will download the data from binance from the start date. to 
 if the end date. If there is no start date specified, the application will download the data from
 the beginning of time and if there is no end date specified , the application will download the   
