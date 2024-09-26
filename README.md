@@ -3,7 +3,7 @@ in the "data" fodler, the appl ication w ill download the data from binance from
 if the end date. If there is no start date specified, the application will download the data from
 the beginning of time and if the re is no end date specified , the application will download the   
 candles untill the current date.
-    
+     
 Constants:  
 
 ---------
