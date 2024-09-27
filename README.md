@@ -16,7 +16,7 @@ Constants:
     the application will download the data untill the current date. If you want to download the data
     untill the current time, you can also pass "NOW" or "now" to this variable
 -SAVELOCATION: str(optional): The location to save the candlestick data.
--UPDATE: bool(optional): If True, the application will update the candlestick data and disregard the
+-UPD ATE: bool(optional): If True, the application will update the candlestick data and disregard the
 
 Output:
 -------
