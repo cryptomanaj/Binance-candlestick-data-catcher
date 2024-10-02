@@ -6,7 +6,7 @@ candles untill the current date.
       
 Constants:  
 
----------
+--------- 
 -API_KEY: str: The api key for binance.
 -ASSETNAME : str: The name of the asset for downloading the candlestick data.
 -TIMEFRAME: str: The timeframe for the candlestick d ata.  
