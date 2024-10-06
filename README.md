@@ -5,7 +5,7 @@ the beginning of time and if the re is no end date specified , the application w
 candles untill the current date.
       
 Constants:  
-
+ 
 --------- 
 -API_KEY: str: The api key for binance.
 -ASSETNAME : str: The name of t he asset for downloading the candlestick data.
